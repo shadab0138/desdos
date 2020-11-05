@@ -1,7 +1,5 @@
 #include<stdio.h>
-int add (int,int);
-int sub (int,int);
-int multiplication (int,int);
+
 int main()
 {
     printf("Sum=%d\n",add(10,90));
